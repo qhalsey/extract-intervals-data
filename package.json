@@ -1,0 +1,19 @@
+{
+  "name": "intervals-year-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^0.6.3",
+    "dotenv": "^6.2.0",
+    "mssql": "^4.3.2",
+    "request": "^2.88.0",
+    "tedious": "^5.0.3"
+  }
+}
